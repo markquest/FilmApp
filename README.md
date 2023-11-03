@@ -30,7 +30,7 @@
 - Clone your application's code repository onto the EC2 instance:
     
     ```bash
-    git clone https://github.com/Berkay542/FilmApp.git
+    git clone https://github.com/markquest/FilmApp.git
     ```
     
 
